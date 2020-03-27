@@ -1,0 +1,3 @@
+rootProject.name='links_aplicativos_android'
+include ':app'
+include ':links_aplicativos'
